@@ -1,0 +1,41 @@
+body {background-color: #FFFFCC ;}
+h1.nume {color: red ;}
+h2.sectiuni {color: #660033 ;}
+p {color: black ;}
+ul {background-color: purple ;
+border: 1px solid black;}
+ 
+table, th, ul {
+  background-color:#800000
+  width:100%
+  border: 1px solid black;
+  border-collapse: collapse;}
+  
+  a.linkCat {font-style: italic;
+  font-size:24px;}
+
+h1.nume {font-family "Calibri";
+    font-style: italic;
+	font-size: 36px:}
+p {font-family: "Arial";
+   font-size: 18px;}
+   
+   img {border: 2px solid black;
+        border=radius; 12 px;
+		with: 150 px;
+		display: black;
+		padding: 2px;
+		margin: left;
+		opacity: 0.8;
+		}
+logCat{ border:2px solid black; 
+border-radius : 12px;
+width: 30 px; 
+display : block;
+margin:auto; 
+opacity : 0.6;}
+
+titlu{ font-family: " arial" ;
+font-style:italic;
+font-size: 50px;
+color: pink; }
